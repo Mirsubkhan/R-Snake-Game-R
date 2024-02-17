@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Snake-Game/static/css/main.5463e993.css",
+    "main.js": "/Snake-Game/static/js/main.28ddb151.js",
+    "static/js/508.f2ff0e7a.chunk.js": "/Snake-Game/static/js/508.f2ff0e7a.chunk.js",
+    "static/js/592.09218b42.chunk.js": "/Snake-Game/static/js/592.09218b42.chunk.js",
+    "static/media/f95d59c3e76296a.mp3": "/Snake-Game/static/media/f95d59c3e76296a.b44d549172f60aeda4a1.mp3",
+    "static/media/poedanie-ukus-yabloka.mp3": "/Snake-Game/static/media/poedanie-ukus-yabloka.f9ecb404aed27e2da5ec.mp3",
+    "index.html": "/Snake-Game/index.html",
+    "main.5463e993.css.map": "/Snake-Game/static/css/main.5463e993.css.map",
+    "main.28ddb151.js.map": "/Snake-Game/static/js/main.28ddb151.js.map",
+    "508.f2ff0e7a.chunk.js.map": "/Snake-Game/static/js/508.f2ff0e7a.chunk.js.map",
+    "592.09218b42.chunk.js.map": "/Snake-Game/static/js/592.09218b42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5463e993.css",
+    "static/js/main.28ddb151.js"
+  ]
+}
